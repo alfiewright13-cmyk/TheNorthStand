@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Head to Head — The North Stand</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <div class="nav-logo">
+        <a href="index.html" style="text-decoration:none; display:flex; flex-direction:column; line-height:1.2;">
+          <span class="logo-main">The North Stand</span>
+          <span class="logo-sub">Icelandic Football</span>
+        </a>
+      </div>
+      <ul class="nav-links">
+        <li><a href="fixtures.html">Fixtures</a></li>
+        <li><a href="results.html">Results</a></li>
+        <li><a href="table.html">Table</a></li>
+        <li><a href="clubs.html">Clubs</a></li>
+        <li><a href="seasons.html">Seasons</a></li>
+        <li><a href="articles.html">Articles</a></li>
+        <li><a href="h2h.html" class="active">H2H</a></li>
+      
+    </ul>
+      <button class="nav-toggle" aria-label="Menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </nav>
+  </header>
+
+  <main>
+
+    <section class="page-header">
+      <p class="season-label">Besta deild karla</p>
+      <h1>Head to Head</h1>
+    </section>
+
+    <div class="h2h-selector">
+      <div class="h2h-club-select">
+        <label class="h2h-label">Home side</label>
+        <select id="club-a" class="h2h-select"></select>
+      </div>
+      <div class="h2h-vs">vs</div>
+      <div class="h2h-club-select">
+        <label class="h2h-label">Away side</label>
+        <select id="club-b" class="h2h-select"></select>
+      </div>
+      <button id="h2h-go" class="h2h-btn">Compare</button>
+    </div>
+
+    <div id="h2h-results" class="h2h-results">
+      <!-- Populated by h2h.js -->
+    </div>
+
+  </main>
+
+  <footer>
+    <p>The North Stand &mdash; Icelandic Football &mdash; 2026</p>
+  </footer>
+
+  <script src="h2h.js"></script>
+
+</body>
+</html>
