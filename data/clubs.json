@@ -1,0 +1,52 @@
+{
+  "clubs": [
+    {
+      "id": "BRE", "full_name": "Breiðablik", "common_name": "Breiðablik", "founded": 1950, "city": "Kópavogur", "ground": "Kópavogsvöllur", "capacity": 1709, "primary_colour": "#4CAF50", "secondary_colour": "#FFFFFF",
+      "honours": {"league": 2, "cup": 1}
+    },
+    {
+      "id": "FH", "full_name": "Fimleikafélag Hafnarfjarðar", "common_name": "FH", "founded": 1929, "city": "Hafnarfjörður", "ground": "Kaplakrikavöllur", "capacity": 3050, "primary_colour": "#FFFFFF", "secondary_colour": "#000000",
+      "honours": {"league": 8, "cup": 3}
+    },
+    {
+      "id": "FRA", "full_name": "Knattspyrnufélagið Fram", "common_name": "Fram", "founded": 1908, "city": "Reykjavík", "ground": "Framvöllur", "capacity": 1600, "primary_colour": "#003897", "secondary_colour": "#FFFFFF",
+      "honours": {"league": 18, "cup": 7}
+    },
+    {
+      "id": "IA", "full_name": "Íþróttabandalag Akraness", "common_name": "ÍA", "founded": 1946, "city": "Akranes", "ground": "Akranesvöllur", "capacity": 900, "primary_colour": "#FFD700", "secondary_colour": "#000000",
+      "honours": {"league": 18, "cup": 9}
+    },
+    {
+      "id": "IBV", "full_name": "ÍBV-íþróttafélag", "common_name": "ÍBV", "founded": 1903, "city": "Vestmannaeyjar", "ground": "Hásteinsvöllur", "capacity": 1500, "primary_colour": "#FFFFFF", "secondary_colour": "#000000",
+      "honours": {"league": 3, "cup": 3}
+    },
+    {
+      "id": "KA", "full_name": "Knattspyrnufélag Akureyrar", "common_name": "KA", "founded": 1928, "city": "Akureyri", "ground": "Akureyrarvöllur", "capacity": 1645, "primary_colour": "#FFD700", "secondary_colour": "#003897",
+      "honours": {"league": 1, "cup": 2}
+    },
+    {
+      "id": "KEF", "full_name": "Knattspyrnudeild Keflavíkur", "common_name": "Keflavík", "founded": 1929, "city": "Keflavík", "ground": "Keflavíkurvöllur", "capacity": 1100, "primary_colour": "#003897", "secondary_colour": "#FFFFFF",
+      "honours": {"league": 4, "cup": 3}
+    },
+    {
+      "id": "KR", "full_name": "Knattspyrnufélag Reykjavíkur", "common_name": "KR", "founded": 1899, "city": "Reykjavík", "ground": "KR-völlur", "capacity": 1541, "primary_colour": "#000000", "secondary_colour": "#FFFFFF",
+      "honours": {"league": 27, "cup": 13}
+    },
+    {
+      "id": "STJ", "full_name": "Stjarnan FC", "common_name": "Stjarnan", "founded": 1960, "city": "Garðabær", "ground": "Stjörnuvöllur", "capacity": 1000, "primary_colour": "#003897", "secondary_colour": "#FFFFFF",
+      "honours": {"league": 3, "cup": 1}
+    },
+    {
+      "id": "THO", "full_name": "Íþróttafélagið Þór", "common_name": "Þór", "founded": 1915, "city": "Akureyri", "ground": "Þórsvöllur", "capacity": 984, "primary_colour": "#FFFFFF", "secondary_colour": "#c8102e",
+      "honours": {"league": 0, "cup": 1}
+    },
+    {
+      "id": "VAL", "full_name": "Knattspyrnufélagið Valur", "common_name": "Valur", "founded": 1911, "city": "Reykjavík", "ground": "Hlíðarendi", "capacity": 1201, "primary_colour": "#c8102e", "secondary_colour": "#FFFFFF",
+      "honours": {"league": 23, "cup": 9}
+    },
+    {
+      "id": "VIK", "full_name": "Knattspyrnufélagið Víkingur", "common_name": "Víkingur R.", "founded": 1908, "city": "Reykjavík", "ground": "Víkingsvöllur", "capacity": 1450, "primary_colour": "#000000", "secondary_colour": "#c8102e",
+      "honours": {"league": 9, "cup": 3}
+    }
+  ]
+}
