@@ -1,0 +1,28 @@
+{
+  "seasons": [
+    {
+      "id": "S2026",
+      "year": 2026,
+      "competition": "Besta deild karla",
+      "competition_id": "C001",
+      "tier": 1,
+      "num_teams": 12,
+      "start_date": "2026-04-10",
+      "end_date": "2026-24-01",
+      "champion": null,
+      "status": "upcoming"
+    },
+    {
+      "id": "S2025",
+      "year": 2025,
+      "competition": "Besta deild karla",
+      "competition_id": "C001",
+      "tier": 1,
+      "num_teams": 12,
+      "start_date": "2025-04-05",
+      "end_date": "2025-10-26",
+      "champion": "VIK",
+      "status": "completed"
+    }
+  ]
+}
